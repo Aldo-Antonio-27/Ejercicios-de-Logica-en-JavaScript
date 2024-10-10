@@ -1,4 +1,4 @@
-# Actividad 2 – Ejercicio Lógica JavaScript
+# Actividad 2 – Ejercicios de Lógica en JavaScript
 
 **Nombre del Estudiante:** Aldo Antonio Badillo Vega  
 **Matricula:** 2021009  
