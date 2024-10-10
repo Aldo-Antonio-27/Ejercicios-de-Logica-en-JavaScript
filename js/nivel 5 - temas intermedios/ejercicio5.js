@@ -19,6 +19,7 @@ let html_E5_N5= `
 	<button onclick="claseSaludarGrado_E5_N5()">Clase para Saludar y Imprimir Grador</button>
 
 	<br>
+  <br>
 	<div id="resultados_E5_N5">
 	</div>
 `;

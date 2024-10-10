@@ -14,6 +14,7 @@ let html_E2_N1= `
 	<button onclick="operaciones_E2_N1()">Realizar Operaciones</button>
 
 	<br>
+  <br>
 	<div id="resultados_E2_N1">
 	</div>
 `;

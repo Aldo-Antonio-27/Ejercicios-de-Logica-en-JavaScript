@@ -23,6 +23,7 @@ let html_E4_N4= `
 	<button onclick="promedioLista_E4_N4()">Promedio Lista</button>
 
 	<br>
+  <br>
 	<div id="resultados_E4_N4">
 	</div>
 `;

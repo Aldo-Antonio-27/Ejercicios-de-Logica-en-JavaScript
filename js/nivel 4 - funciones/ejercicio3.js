@@ -11,6 +11,7 @@ let html_E3_N4= `
 	<button onclick="factorizarNumero_E3_N4()">Factorizar Número</button>
 
 	<br>
+  <br>
 	<div id="resultados_E3_N4">
 	</div>
 `;

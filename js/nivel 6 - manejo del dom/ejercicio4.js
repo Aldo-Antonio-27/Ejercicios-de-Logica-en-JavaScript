@@ -7,6 +7,7 @@ let html_E4_N6= `
 	<input type="text" id="tecla_E4_N6" placeholder="Presione una Tecla:">
 
 	<br>
+	<br>
 	<div id="resultados_E4_N6">
 	</div>
 `;

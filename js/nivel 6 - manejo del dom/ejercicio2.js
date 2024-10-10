@@ -11,6 +11,7 @@ let html_E2_N6= `
 	<button onclick="agregarElemento_E2_N6()">Agregar Nuevo Elemento</button>
 
 	<br>
+  <br>
 	<div id="resultados_E2_N6">
     <p>Lista de Elementos:</p>
     <ul id="listaElementos_E2_N6">

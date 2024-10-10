@@ -27,6 +27,7 @@ let html_E9_N1= `
 	<button onclick="imprimirNombres_E9_N1()">Imprimir Nombres</button>
 
 	<br>
+	<br>
 	<div id="resultados_E9_N1">
 	</div>
 `;

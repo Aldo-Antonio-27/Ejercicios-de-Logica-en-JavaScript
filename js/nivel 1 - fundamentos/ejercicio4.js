@@ -11,6 +11,7 @@ let html_E4_N1= `
 	<button onclick="verificacion_E4_N1()">Verificar Numero</button>
 
 	<br>
+	<br>
 	<div id="resultados_E4_N1">
 	</div>
 `;

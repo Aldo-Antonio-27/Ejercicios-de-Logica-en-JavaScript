@@ -28,6 +28,7 @@ let html_E5_N3= `
 	<button onclick="objetoCarro_E5_N3()">Crear Objeto</button>
 
 	<br>
+  <br>
 	<div id="resultados_E5_N3">
 	</div>
 `;

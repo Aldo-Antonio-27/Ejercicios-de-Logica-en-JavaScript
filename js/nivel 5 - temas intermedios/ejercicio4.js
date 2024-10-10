@@ -15,6 +15,7 @@ let html_E4_N5= `
 	<button onclick="claseSaludar_E4_N5()">Clase para Saludar</button>
 
 	<br>
+  <br>
 	<div id="resultados_E4_N5">
 	</div>
 `;

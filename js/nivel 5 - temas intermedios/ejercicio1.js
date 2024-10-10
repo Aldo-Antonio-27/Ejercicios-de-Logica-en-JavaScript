@@ -16,6 +16,7 @@ let html_E1_N5= `
 	<button id="boton_E1_N5">Suma Números</button>
 
 	<br>
+  <br>
 	<div id="resultados_E1_N5">
 	</div>
 `;

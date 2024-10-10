@@ -11,6 +11,7 @@ let html_E2_N5= `
 	<button id="boton_E2_N5">Imprimir Mensaje</button>
 
 	<br>
+  <br>
 	<div id="resultados_E2_N5">
 	</div>
 `;

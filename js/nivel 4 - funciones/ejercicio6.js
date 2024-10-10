@@ -11,6 +11,7 @@ let html_E6_N4= `
 	<button onclick="contarVocales_E6_N4()">Contar Vocales</button>
 
 	<br>
+  <br>
 	<div id="resultados_E6_N4">
 	</div>
 `;

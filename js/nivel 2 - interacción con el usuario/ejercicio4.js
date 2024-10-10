@@ -11,6 +11,7 @@ let html_E4_N2= `
 	<button onclick="convertirTemperatura_E4_N2()">Convertir Temperatura</button>
 
 	<br>
+	<br>
 	<div id="resultados_E4_N2">
 	</div>
 `;

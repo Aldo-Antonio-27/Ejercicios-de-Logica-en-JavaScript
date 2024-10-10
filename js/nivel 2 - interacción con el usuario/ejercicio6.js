@@ -11,6 +11,7 @@ let html_E6_N2= `
 	<button onclick="validarPalindromo_E6_N2()">Validar Palíndromo</button>
 
 	<br>
+  <br>
 	<div id="resultados_E6_N2">
 	</div>
 `;

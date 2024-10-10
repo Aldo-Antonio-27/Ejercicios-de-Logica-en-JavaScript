@@ -19,6 +19,7 @@ let html_E4_N3= `
 	<button onclick="objetoCarro_E4_N3()">Crear Objeto</button>
 
 	<br>
+	<br>
 	<div id="resultados_E4_N3">
 	</div>
 `;

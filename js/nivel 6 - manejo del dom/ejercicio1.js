@@ -12,6 +12,7 @@ let html_E1_N6= `
 	<button onclick="claseCalculadora_E1_N6()">Clase de Calculadora</button>
 
 	<br>
+  <br>
 	<div id="resultados_E1_N6">
     <p id="textoBienvenida_E1_N6">Hola desconocido, ingrese su nombre para dale la bienvenida.</p>
 	</div>

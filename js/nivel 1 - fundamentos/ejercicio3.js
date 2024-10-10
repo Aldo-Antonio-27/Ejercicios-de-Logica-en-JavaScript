@@ -14,6 +14,7 @@ let html_E3_N1= `
 	<button onclick="sumaDeCadenas_E3_N1()">Realizar Operaciones</button>
 
 	<br>
+	<br>
 	<div id="resultados_E3_N1">
 	</div>
 `;

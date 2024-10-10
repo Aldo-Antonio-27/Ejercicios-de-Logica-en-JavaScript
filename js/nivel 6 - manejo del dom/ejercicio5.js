@@ -19,6 +19,7 @@ let html_E5_N6= `
 	<button onclick="validarFormulario_E5_N6()">Validar Formulario</button>
 
 	<br>
+  <br>
 	<div id="resultados_E5_N6">
 	</div>
 `;

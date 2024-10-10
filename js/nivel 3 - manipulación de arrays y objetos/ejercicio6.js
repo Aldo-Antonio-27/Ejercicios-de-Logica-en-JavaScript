@@ -28,6 +28,7 @@ let html_E6_N3= `
 	<button onclick="buscarObjeto_E6_N3()">Crear Objeto</button>
 
 	<br>
+	<br>
 	<div id="resultados_E6_N3">
 	</div>
 `;

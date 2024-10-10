@@ -23,6 +23,7 @@ let html_E3_N3= `
 	<button onclick="imprimirPares_E3_N3()">Imprimir Suma</button>
 
 	<br>
+  <br>
 	<div id="resultados_E3_N3">
 	</div>
 `;

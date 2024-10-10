@@ -12,6 +12,7 @@ let html_E3_N6= `
   <button onclick="eliminarElemento_E3_N6()">Eliminar Ultimo Elemento</button>
 
 	<br>
+  <br>
 	<div id="resultados_E3_N6">
     <p>Lista de Elementos:</p>
     <ul id="listaElementos_E3_N6">

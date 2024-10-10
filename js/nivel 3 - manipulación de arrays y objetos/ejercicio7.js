@@ -28,6 +28,7 @@ let html_E7_N3= `
 	<button onclick="agregarElemento_E7_N3()">Agregar elemento</button>
 
 	<br>
+	<br>
 	<div id="resultados_E7_N3">
 	</div>
 `;

@@ -6,6 +6,7 @@ let html_E8_N1= `
 	<button onclick="sumaDeNumeros_E8_N1()">Suma de Numeros</button>
 
 	<br>
+	<br>
 	<div id="resultados_E8_N1">
 	</div>
 `;

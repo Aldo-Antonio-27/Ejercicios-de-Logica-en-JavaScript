@@ -5,6 +5,7 @@ let html_E1_N1= `
   <h2>Ejercicio Número 1: Variables y tipos de datos.</h2>
 
 	<br>
+	<br>
 	<div id="resultados_E1_N1">
 	</div>
 `;

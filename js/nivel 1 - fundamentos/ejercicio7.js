@@ -6,6 +6,7 @@ let html_E7_N1= `
 	<button onclick="imprimirNumeros_E7_N1()">Imprimir Numeros</button>
 
 	<br>
+	<br>
 	<div id="resultados_E7_N1">
 	</div>
 `;

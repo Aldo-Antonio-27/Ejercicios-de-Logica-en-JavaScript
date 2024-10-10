@@ -20,6 +20,7 @@ let html_E1_N3= `
 	<button onclick="imprimirElementos_E1_N3()">Imprimir Elementos</button>
 
 	<br>
+	<br>
 	<div id="resultados_E1_N3">
 	</div>
 `;
